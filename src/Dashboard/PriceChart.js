@@ -6,6 +6,7 @@ import ReactHighCharts from 'react-highcharts'
 import HighchartsTheme from './HighchartsTheme';
 import ChartSelect from './ChartSelect';
 
+
 ReactHighCharts.Highcharts.setOptions(HighchartsTheme);
 
 export default function() {
