@@ -7,7 +7,7 @@ This is a Data Visualization web application built with reactjs [https://reactjs
 * Fetch Coins  — Fetch coin list from Crypto API
 * Search  —  user can type the name or symbol of coin and display the search results
 * Favorites — user can add or remove coins to favorites. 
-* Confirm Favorites - user confirms favorites is added to dashbaord and are presisted in local storgae
+* Confirm Favorites - user confirms favorites is added to dashboard and  persisted in local storgae
 * Dashboard — Display user's favorite coins 
 * Spotlight Coin - user can pick a spotlight coin and view prices and changes
 * Price Chart - user can view historical data by month/week/days
