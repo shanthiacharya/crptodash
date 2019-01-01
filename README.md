@@ -1,4 +1,4 @@
-#React Data Visualization - Cryptocurrency Dashboard".
+#React Data Visualization - Cryptocurrency Dashboard.
 
 This is a Data Visualization web application built with reactjs [https://reactjs.org/]  
 
