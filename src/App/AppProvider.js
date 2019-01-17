@@ -1,6 +1,6 @@
 import React from 'react';
 import * as _ from 'lodash';
-import moment from 'moment';
+import moment from 'moments';
 
 const cc = require ('cryptocompare');
 
